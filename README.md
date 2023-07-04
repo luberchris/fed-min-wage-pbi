@@ -1,5 +1,3 @@
-# Federal-Minimum-Wage-by-State
-
 # US FEDERAL MINIMUM WAGE BY STATE SUMMARY
 ## Chris Luber, 27 June, 2023
 ​
